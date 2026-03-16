@@ -1,11 +1,42 @@
+
+body {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color:#2A444C;
+   line-height: 1.6;
+   
+
+}
+
+p{
+    margin-block: 30px;
+}
+
+ul{
+    margin-block: 20px;
+}
+
+main{
+    
+    text-align: center;
+    
+}
+
 h1{
+    font-size: 3rem;
     color: #8AB3BF;
+    text-align: center;
+    line-height: 1.1;
 
  
 }
 
 h2{
     color: #79a1ad;
+}
+
+section{
+    
+    margin-block: 50px;
 }
 
 footer{
