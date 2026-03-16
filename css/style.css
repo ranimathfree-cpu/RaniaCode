@@ -1,11 +1,18 @@
 
 body {
-   font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
    color:#2A444C;
    line-height: 1.6;
+}
    
 
-}
+ 
+
+   
+    
+   
+
+
 
 p{
     margin-block: 30px;
@@ -26,12 +33,21 @@ h1{
     color: #8AB3BF;
     text-align: center;
     line-height: 1.1;
+    
 
  
 }
 
 h2{
-    color: #79a1ad;
+    color: #495C61;
+    background:#8CA3A8;
+  
+}
+
+h3{
+    color: #495C61;
+    background:#8CA3A8;
+   
 }
 
 section{
@@ -40,10 +56,16 @@ section{
 }
 
 footer{
-    background-color: #8AB3BF;
+    background-color: #8CA3A8;
     color: white;
     text-align: center;
     padding: 10px;
+}
+
+img {
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
 }
 
 
